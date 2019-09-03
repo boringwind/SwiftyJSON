@@ -1146,7 +1146,7 @@
 				INFOPLIST_FILE = "Source/Info-macOS.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.swiftyjson.$(PRODUCT_NAME:rfc1034identifier)";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.swiftyjson.SwiftyJSON-watchOS";
 				PRODUCT_NAME = SwiftyJSON;
 				SDKROOT = watchos;
 				SKIP_INSTALL = YES;
@@ -1174,7 +1174,7 @@
 				INFOPLIST_FILE = "Source/Info-macOS.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.swiftyjson.$(PRODUCT_NAME:rfc1034identifier)";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.swiftyjson.SwiftyJSON-watchOS";
 				PRODUCT_NAME = SwiftyJSON;
 				SDKROOT = watchos;
 				SKIP_INSTALL = YES;
